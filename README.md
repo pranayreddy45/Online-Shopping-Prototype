@@ -4,7 +4,9 @@ This is Online shopping prototype for localhost.
 mainpage.php is index page. <br />
 'data1' is database name.
 <br />
-'amazon1234' is table name with attributes of ID,Name,MobileNumber,Email,Address,City,State,Country,Pincode,Items,Total,Date,Time,Enddate.
+Create table 'amazon1234' with attributes of ID,Name,MobileNumber,Email,Address,City,State,Country,Pincode,Items,Total,Date,Time,Enddate.
+<br />
+Create table 'amazondata1' with attributes ID,DATA,Amount.
 <br />
 In 'amazon1234' table I stored entire items in 'Items' attribute as a list. It works but it is better to create an another table for Items along with ID as primaty key.
 <br />
