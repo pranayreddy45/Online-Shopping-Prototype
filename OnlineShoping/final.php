@@ -97,7 +97,7 @@ Adderss: $address, $city, $state, $country, $pin.
 ThankYou.
 Visit Our Website Again. 
 Your Order will be delivered with in :$ending";		
-$headers="From:pranayreddy360@gmail.com";
+$headers="From:example@gmail.com";
 if(mail($emailTo,$sub,$body,$headers))
 {
 echo "Sent";
