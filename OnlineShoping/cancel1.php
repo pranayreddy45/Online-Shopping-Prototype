@@ -12,7 +12,7 @@ echo "<h3> Your order is cancelled sucessfully </h3>";
 $emailTo=$email;
 $sub="Online Shopping";
 $body="Your order ID=$c is sucessfully cancelled";		
-$headers="From:pranayreddy360@gmail.com";
+$headers="From:example@gmail.com";
 if(mail($emailTo,$sub,$body,$headers))
 {
 echo "Sent";
