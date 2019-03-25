@@ -1,4 +1,6 @@
 # Online-Shopping-Prototype
+Note:This is not any online shopping site. This is my online shopping project. All the products you ordered in this site are not considered.
+<br />
 This is Online shopping prototype for localhost.
 <br />
 mainpage.php is index page. <br />
