@@ -1,6 +1,4 @@
 # Online-Shopping-Prototype
-<b> Note:This is not any online shopping site. This is my online shopping project. All the products you ordered in this site are not considered. </b>
-</br>
 <b> Link: </b> https://septic-setting.000webhostapp.com/index.php
 <br />
 This is Online shopping prototype for localhost.
