@@ -1,6 +1,5 @@
 # Online-Shopping-Prototype
-https://septic-setting.000webhostapp.com/
-<br />
+
 This is Online shopping prototype for localhost.
 <br />
 mainpage.php is index page. 
